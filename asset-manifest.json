@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Oprych22/Oprych22.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Oprych22/Oprych22.github.io/static/js/main.118a3617.chunk.js",
+    "main.js.map": "/Oprych22/Oprych22.github.io/static/js/main.118a3617.chunk.js.map",
+    "runtime-main.js": "/Oprych22/Oprych22.github.io/static/js/runtime-main.7be39c6a.js",
+    "runtime-main.js.map": "/Oprych22/Oprych22.github.io/static/js/runtime-main.7be39c6a.js.map",
+    "static/js/2.6931f07e.chunk.js": "/Oprych22/Oprych22.github.io/static/js/2.6931f07e.chunk.js",
+    "static/js/2.6931f07e.chunk.js.map": "/Oprych22/Oprych22.github.io/static/js/2.6931f07e.chunk.js.map",
+    "index.html": "/Oprych22/Oprych22.github.io/index.html",
+    "precache-manifest.f54a843ef2cb91e3838a146630b13a4e.js": "/Oprych22/Oprych22.github.io/precache-manifest.f54a843ef2cb91e3838a146630b13a4e.js",
+    "service-worker.js": "/Oprych22/Oprych22.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Oprych22/Oprych22.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6931f07e.chunk.js.LICENSE.txt": "/Oprych22/Oprych22.github.io/static/js/2.6931f07e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Oprych22/Oprych22.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7be39c6a.js",
+    "static/js/2.6931f07e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.118a3617.chunk.js"
+  ]
+}
